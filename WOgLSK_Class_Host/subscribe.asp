@@ -13,7 +13,7 @@ cusletter = upload.form("Newsletter")
 
 myemail = "info@exoticspray.co.nz"
 myname = "Exotic"
-smtpserver = "email.weborigin.co.nz"
+smtpserver = "mail.weborigin.co.nz"
 smtpuser = "exotic@weborigin.co.nz"
 smtppwd = "qwertyuiop"
 smtpemail = "exotic@weborigin.co.nz"
