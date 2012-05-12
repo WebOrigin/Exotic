@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="sadfsdf" />
 <meta name="description" content="sadfsadf" />
-<title>Exotic - Canada - Contact Us</title>
+<title>Exotic - Hungary - Contact Us</title>
 <link href="/template/images/style.css" rel="stylesheet" type="text/css" />
 <script src="/template/images/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -39,7 +39,7 @@ function MM_validateForm() { //v4.0
       <tr>
         <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Canada&nbsp;&nbsp;&nbsp;</td>
+            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Hungary&nbsp;&nbsp;&nbsp;</td>
           </tr>
         </table></td>
       </tr>
@@ -92,7 +92,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="27">&nbsp;</td>
                           </tr>
                           <tr>
-                            <td class="main_title">Online Enquiry Form</td>
+                            <td class="main_title">Online érdeklődés</td>
                           </tr>
                           <tr>
                             <td height="11"></td>
@@ -100,7 +100,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" class="main_text">Name</td>
+                                <td width="114" class="main_text">Név:</td>
                                 <td><label>
                                   <input name="Name" type="text" class="Input_Box_Q" id="Name" />
                                 </label></td>
@@ -113,7 +113,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td height="7"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" class="main_text">Phone(optional)</td>
+                                <td width="114" class="main_text">Telefon:</td>
                                 <td><label>
                                   <input name="Phone" type="text" class="Input_Box_Q" id="Phone" />
                                 </label></td>
@@ -126,7 +126,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td height="13"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" class="main_text">E-mail</td>
+                                <td width="114" class="main_text">E-mail cim:</td>
                                 <td><label>
                                   <input name="Email" type="text" class="Input_Box_Q" id="Email" />
                                 </label></td>
@@ -139,7 +139,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td height="13"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" valign="top" class="main_text">Message</td>
+                                <td width="114" valign="top" class="main_text">Üzenet:</td>
                                 <td><label>
                                   <textarea name="Message" class="Input_Box_M" id="Message"></textarea>
                                 </label></td>
@@ -150,16 +150,16 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="13"></td>
                           </tr>
                           <tr>
-                            <td class="main_text">Do you wish to subscribe our newsletter?</td>
+                            <td class="main_text">Fell szertnél-e iratkozzni az ingyenes hirlevelükre?</td>
                           </tr>
                           <tr>
                             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
                                 <td width="114">&nbsp;</td>
                                 <td class="main_text"><input name="newsL" type="radio" id="newsL" value="Yes" checked="checked" />
-                                  Yes
+                                  Igen
                                     <input type="radio" name="newsL" id="newsL" value="No" />
-                                    No</td>
+                                    Nem</td>
                               </tr>
                             </table></td>
                           </tr>
@@ -169,7 +169,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="250"><input name="Country" type="hidden" id="Country" value="ca" /></td>
+                                <td width="250"><input name="Country" type="hidden" id="Country" value="hu" /></td>
                                 <td><input type="image" src="/up_files/image/submit.png" width="79" height="20" align="absmiddle" border="0" name="Submit" onclick="MM_validateForm('Name','','R','Email','','RisEmail','Message','','R');return document.MM_returnValue;this.form.submit();return document.MM_returnValue"/></td>
                               </tr>
                             </table></td>
@@ -181,15 +181,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="49">&nbsp;</td>
                           </tr>
                           <tr>
-                            <td class="main_text">You can contact us altematively by<br />
-                              <br />
-Phone: (09)4421045<br />
-<br />
-E-mail: <a href="mailto:info@exoticspray.co.nz">info@exoticspray.co.nz</a><br />
-<br />
-Address: 241D Rosedale Rd<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rosedale<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auckland</td>
+                            <td valign="top" class="main_text"><a href="mailto:info_hu@exoticspray.com">info_hu@exoticspray.com</a></td>
                           </tr>
                         </table>                        <p>&nbsp;</p>
                           </td>
