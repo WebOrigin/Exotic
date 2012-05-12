@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="sadfsdf" />
 <meta name="description" content="sadfsadf" />
-<title>Exotic - Slovensko & Česk&aacute - Kontakt</title>
+<title>Exotic - Europe & UK - Contact Us</title>
 <link href="/template/images/style.css" rel="stylesheet" type="text/css" />
 <script src="/template/images/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -39,7 +39,7 @@ function MM_validateForm() { //v4.0
       <tr>
         <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Slovensko & Česká republika&nbsp;&nbsp;&nbsp;</td>
+           <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Europe & UK&nbsp;&nbsp;&nbsp;</td>
           </tr>
         </table></td>
       </tr>
@@ -86,13 +86,13 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                       <tr>
                         <td width="395" height="13" valign="top"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                           <tr>
-                            <td class="main_title_2">Kontakt</td>
+                            <td class="main_title_2">Contact Us</td>
                           </tr>
                           <tr>
                             <td height="27">&nbsp;</td>
                           </tr>
                           <tr>
-                            <td class="main_title">Vyplň formulár</td>
+                            <td class="main_title">Online Enquiry Form</td>
                           </tr>
                           <tr>
                             <td height="11"></td>
@@ -100,7 +100,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" class="main_text">Meno</td>
+                                <td width="114" class="main_text">Name</td>
                                 <td><label>
                                   <input name="Name" type="text" class="Input_Box_Q" id="Name" />
                                 </label></td>
@@ -113,7 +113,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td height="7"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" class="main_text">Telefon(optional)</td>
+                                <td width="114" class="main_text">Phone(optional)</td>
                                 <td><label>
                                   <input name="Phone" type="text" class="Input_Box_Q" id="Phone" />
                                 </label></td>
@@ -139,7 +139,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td height="13"><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="114" valign="top" class="main_text">Dotazy</td>
+                                <td width="114" valign="top" class="main_text">Message</td>
                                 <td><label>
                                   <textarea name="Message" class="Input_Box_M" id="Message"></textarea>
                                 </label></td>
@@ -150,16 +150,16 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="13"></td>
                           </tr>
                           <tr>
-                            <td class="main_text">Želáš si zasielať informácie o novinkách?</td>
+                            <td class="main_text">Do you wish to subscribe our newsletter?</td>
                           </tr>
                           <tr>
                             <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
                                 <td width="114">&nbsp;</td>
                                 <td class="main_text"><input name="newsL" type="radio" id="newsL" value="Yes" checked="checked" />
-                                  ÁNO
+                                  Yes
                                     <input type="radio" name="newsL" id="newsL" value="No" />
-                                    Nie</td>
+                                    No</td>
                               </tr>
                             </table></td>
                           </tr>
@@ -169,7 +169,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="250"><input name="Country" type="hidden" id="Country" value="sk" /></td>
+                                <td width="250"><input name="Country" type="hidden" id="Country" value="uk" /></td>
                                 <td><input type="image" src="/up_files/image/submit.png" width="79" height="20" align="absmiddle" border="0" name="Submit" onclick="MM_validateForm('Name','','R','Email','','RisEmail','Message','','R');return document.MM_returnValue;this.form.submit();return document.MM_returnValue"/></td>
                               </tr>
                             </table></td>
@@ -181,7 +181,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="49">&nbsp;</td>
                           </tr>
                           <tr>
-                            <td valign="top" class="main_text">E-mail: <a href="mailto:info_sk@exoticspray.com">info_sk@exoticspray.com</a></td>
+                            <td valign="top" class="main_text"><p><a href="mailto:info_uk@exoticspray.com">info_uk@exoticspray.com</a></p></td>
                           </tr>
                         </table>                        <p>&nbsp;</p>
                           </td>
