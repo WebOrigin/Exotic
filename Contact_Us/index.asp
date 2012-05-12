@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="sadfsdf" />
 <meta name="description" content="sadfsadf" />
-<title>Exotic - Australia - Contact Us</title>
+<title>Exotic - Canada - Contact Us</title>
 <link href="/template/images/style.css" rel="stylesheet" type="text/css" />
 <script src="/template/images/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">
@@ -39,7 +39,7 @@ function MM_validateForm() { //v4.0
       <tr>
         <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Australia&nbsp;&nbsp;&nbsp;</td>
+            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Canada&nbsp;&nbsp;&nbsp;</td>
           </tr>
         </table></td>
       </tr>
@@ -169,7 +169,7 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                           <tr>
                             <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
                               <tr>
-                                <td width="250"><input name="Country" type="hidden" id="Country" value="au" /></td>
+                                <td width="250"><input name="Country" type="hidden" id="Country" value="ca" /></td>
                                 <td><input type="image" src="/up_files/image/submit.png" width="79" height="20" align="absmiddle" border="0" name="Submit" onclick="MM_validateForm('Name','','R','Email','','RisEmail','Message','','R');return document.MM_returnValue;this.form.submit();return document.MM_returnValue"/></td>
                               </tr>
                             </table></td>
@@ -181,7 +181,15 @@ AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/
                             <td height="49">&nbsp;</td>
                           </tr>
                           <tr>
-                            <td valign="top" class="main_text"><a href="mailto:info_au@exoticspray.com">info_au@exoticspray.com</a></td>
+                            <td class="main_text">You can contact us altematively by<br />
+                              <br />
+Phone: (09)4421045<br />
+<br />
+E-mail: <a href="mailto:info@exoticspray.co.nz">info@exoticspray.co.nz</a><br />
+<br />
+Address: 241D Rosedale Rd<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rosedale<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Auckland</td>
                           </tr>
                         </table>                        <p>&nbsp;</p>
                           </td>
