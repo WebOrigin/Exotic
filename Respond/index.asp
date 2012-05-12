@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Respond" />
 <meta name="description" content="Respond" />
-<title>Exotic - United States - Respond</title>
+<title>Exotic - Australia - Respond</title>
 <link href="/template/images/style.css" rel="stylesheet" type="text/css" />
 <script src="/template/images/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">var WebOrigin_page='/page/';</script>
@@ -16,12 +16,12 @@
   <tr>
     <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
      <tr>
-        <td height="58"><IFRAME height=100% width=100% frameborder="0" marginWidth="0" hspace="0" vspace="0" marginHeight="0" src= "../flag/flag_st.htm"></IFRAME></td>
+        <td height="58"><IFRAME height=100% width=100% frameborder="0" marginWidth="0" hspace="0" vspace="0" marginHeight="0" src= "http://www.exoticspray.com/flag/flag.htm"></IFRAME></td>
       </tr>
       <tr>
         <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">United States&nbsp;&nbsp;&nbsp;</td>
+            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Australia&nbsp;&nbsp;&nbsp;</td>
           </tr>
         </table></td>
       </tr>
