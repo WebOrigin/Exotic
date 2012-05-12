@@ -5,7 +5,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="keywords" content="Respond" />
 <meta name="description" content="Respond" />
-<title>Exotic - Europe & UK - Respond</title>
+<title>Exotic - South Africa - Respond</title>
 <link href="/template/images/style.css" rel="stylesheet" type="text/css" />
 <script src="/template/images/AC_RunActiveContent.js" type="text/javascript"></script>
 <script type="text/javascript">var WebOrigin_page='/page/';</script>
@@ -21,7 +21,7 @@
       <tr>
         <td><table width="100%%" border="0" cellspacing="0" cellpadding="0">
           <tr>
-           <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">Europe & UK&nbsp;&nbsp;&nbsp;</td>
+            <td width="812" height="57" background="/template/images/homepage_top.png" class="Wel_Text">South Africa&nbsp;&nbsp;&nbsp;</td>
           </tr>
         </table></td>
       </tr>
